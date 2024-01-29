@@ -1,5 +1,6 @@
 ![](assets/Screenshot%20from%202024-01-25%2016-29-11.png)
 
+
 ## Python 3: Fundamentals
 This Course in a Nutshell
 
